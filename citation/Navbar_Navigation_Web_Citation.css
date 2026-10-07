@@ -1,0 +1,21 @@
+#navbar {
+	border: 2px solid #F1357A;
+	background: #FFF9;
+	max-width: max-content;
+	position: fixed; 
+	bottom: 1rem;
+	left: 1rem;
+	diyplay: flex; 
+}
+
+#navbar a {
+ color: #F1357A
+ text-decoration: none;
+ padding:0.5rem; 
+}
+
+#navbar a:hover{
+
+	background: #F1357A ;
+	color: #FFF;
+}
